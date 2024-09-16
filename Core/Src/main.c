@@ -45,6 +45,7 @@
 
 /* USER CODE BEGIN PV */
 uint8_t adc;
+uint8_t bcd;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
