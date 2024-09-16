@@ -44,7 +44,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+uint8_t adc;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
